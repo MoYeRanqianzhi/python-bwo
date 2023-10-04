@@ -23,7 +23,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 '''
 
-md = '''
+md = '''# BWO
+
+当前为测试版的半成品的前瞻版本，暂无文档
 '''
 
 setup(
