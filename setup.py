@@ -30,7 +30,7 @@ md = '''# BWO
 
 setup(
     name='BlueWhite',
-    version='0.1.0-alpha',
+    version='0.1.0a0',
     packages=[
         'BWO',
         'BWO.compute',
